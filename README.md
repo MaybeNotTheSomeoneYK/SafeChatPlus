@@ -1,19 +1,40 @@
 # SafeChatPlus
-made for those who are too lazy to make safechat gui for themselves in roblox
-# HOW TO USE | STEP BY STEP
-1. Make a new "Script" inside ServerScriptService
-2. Put the provided "ModuleScript" (aka SafeChatPlus.rbxm) under the Script
-3. Inside Script, put
 
-require("@self/MainModule").Load({
-Hi={"Hello","Hi","Wsg","Yello","👋(hello)"},
-Bye={"Bye","Bai","Cya","👋(bye)"},
-Happy={":D",":)",":]","[:"},
-Sad={"D:",":(",";(","):",");","]:","];",";[",":["},
-Angry={">:(",">:|","D:<",">:["},
-Confused={":\\",":/","\\:","/:"},
-Laugh={"XD","haha","xD","funny"}
--- add other things as much as you want, just make sure its the right format
+SafeChatPlus is a plug-and-play SafeChat system for Roblox.
+
+It allows developers to create a controlled chat system using predefined responses, making it safe for all ages and compliant with Roblox ToS.
+
+## ✨ Features
+
+* Easy setup (1 require)
+* Config-driven responses
+* Works instantly
+* Safe alternative to Roblox chat
+
+## 🚀 Usage
+
+```lua
+require(path.to.SafeChatPlus).Load({
+    Hi = {"Hello","Hi","Wsg"},
+    Bye = {"Bye","Cya"},
+    Happy = {":D",":)"},
 })
+```
 
-4. Thats it!, You're done!, have fun communicating like guests in the good old days!
+## 📦 How it works
+
+* Automatically installs required scripts
+* Ensures every player has the SafeChat system
+* Uses a self-healing setup system
+
+## 🎯 Purpose
+
+Made for developers who:
+
+* Don’t want to build a chat system
+* Need a quick safe communication method
+* Want to stay within Roblox ToS
+
+## 👤 Author
+
+MaybeNotTheSomeoneYK
