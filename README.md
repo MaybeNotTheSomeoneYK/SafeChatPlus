@@ -35,6 +35,10 @@ Made for developers who:
 * Need a quick safe communication method
 * Want to stay within Roblox ToS
 
+## ⚠️ Disclaimer
+
+Listener script, _Setup and Setup localscript **SHOULD** always be under MainModule (SafeChatPlus)
+
 ## 👤 Author
 
 [MaybeNotTheSomeoneYK on Roblox](https://www.roblox.com/users/9740340997/profile)
