@@ -37,4 +37,4 @@ Made for developers who:
 
 ## 👤 Author
 
-(MaybeNotTheSomeoneYK on Roblox)[https://www.roblox.com/users/9740340997/profile]
+[MaybeNotTheSomeoneYK on Roblox](https://www.roblox.com/users/9740340997/profile)
