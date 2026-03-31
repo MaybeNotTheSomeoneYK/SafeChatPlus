@@ -32,8 +32,6 @@ function module.Load(config)
 
 
 ]])
-	wait(1)
-	script:Destroy()
 end
 
 return module
